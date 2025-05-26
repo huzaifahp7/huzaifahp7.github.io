@@ -7,6 +7,7 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+# Main site navigation
 main:
   - title: "CV"
     url: /cv/
@@ -20,6 +21,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
+  # Commented out sections
   # - title: "Teaching"
   #   url: /teaching/
 
