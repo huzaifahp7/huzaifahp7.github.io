@@ -1,7 +1,7 @@
 ---
 title: "Spotify Wrapped Enhanced"
 excerpt: "A personalized Spotify Wrapped experience with enhanced insights and recommendations using collaborative filtering."
-date: 2024-05-24
+date: 2024-04-20
 collection: projects
 ---
 
