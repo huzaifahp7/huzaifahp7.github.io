@@ -1,0 +1,15 @@
+.author__avatar {
+  max-width: 175px !important;
+  max-height: 175px !important;
+  width: 175px !important;
+  height: 175px !important;
+  object-fit: cover;
+}
+
+.author__avatar img {
+  max-width: 175px !important;
+  max-height: 175px !important;
+  width: 175px !important;
+  height: 175px !important;
+  object-fit: cover;
+} 
