@@ -1,8 +1,8 @@
 ---
 title: "Alpha Generation from Exotic Contracts & Niche Markets [WIP]"
 excerpt: "End-to-end ML pipeline for generating alpha from exotic contracts and niche markets using alternative data sources."
-date: 2024-05-26
-collection: portfolio
+date: 2024-05-27
+collection: projects
 ---
 
 An advanced quantitative research project focused on generating alpha from exotic contracts and niche markets using alternative data sources. The system employs end-to-end machine learning pipelines to analyze and extract insights from non-traditional market data.
