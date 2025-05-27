@@ -11,10 +11,10 @@ A list of all the posts and pages found on the site. For you robots out there, t
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-  {% if post.title == "About" or post.title == "CV" or post.title == "Projects" or post.title == "Publications" or post.title == "Blog Posts"%}
-      {% if post.path != "_pages/cv-json.md" %}
-        {% include archive-single.html %}
-      {% endif %}
+  {% if post.title == "About" or post.title == "CV" or post.title == "Projects" or post.title == "Publications"%}
+    {% if post.path != "_pages/cv-json.md" %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
