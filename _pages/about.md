@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Computer Science and Mathematics student at Georgia Tech, with a deep passion for Quantitative Finance and its intersection with technology. Born and brought up in Mumbai, India, I've had the opportunity to experience diverse cultures through my time in Dubai during two summers and now in Atlanta. My research interests span Machine Learning, Natural Language Processing, Data Science, and Algorithm Design. Like a beautiful ghazal that weaves together multiple layers of meaning, I aim to blend technical expertise with cultural understanding. As a polyglot fluent in multiple languages, I find profound beauty in the convergence of technology and cultural expression.
+Student, researcher, wordsmith, and philosopher of sorts - exploring the intersections of quantitative finance, machine learning, algorithms and the occasional existential musing.
 
 # About Me
 
-I am currently pursuing my studies at Georgia Tech, focusing on the intersection of Computer Science and Mathematics. My interests lie in basically anything applying mathematical and computational methods to solve complex problems. When I'm not immersed in code or mathematical proofs, you'll find me exploring the rich tapestry of languages and poetry. I'm fluent in five languages (English, Hindi, Urdu, Gujarati, and Marathi), with a limited working knowledge of German. I can also understand basic Arabic and Farsi, though I'm still working on speaking them. This multilingual journey has opened doors to some of the world's most profound literary traditions.
+I am a Computer Science and Mathematics student at Georgia Tech, with a deep passion for Quantitative Finance and its intersection with technology. Born and brought up in Mumbai, India, I've had the opportunity to experience diverse cultures through my time in Dubai during two summers and now in Atlanta. My research interests span Machine Learning, Natural Language Processing, Data Science, and Algorithm Design. Like a beautiful ghazal that weaves together multiple layers of meaning, I aim to blend technical expertise with cultural understanding. When I'm not immersed in code or mathematical proofs, you'll find me exploring the rich tapestry of languages and poetry. I'm fluent in five languages (English, Hindi, Urdu, Gujarati, and Marathi), with a limited working knowledge of German. I can also understand basic Arabic and Farsi, though I'm still working on speaking them. This multilingual journey has opened doors to some of the world's most profound literary traditions. My interests lie in basically anything applying mathematical and computational methods to solve complex problems.
 
 # Education
 
