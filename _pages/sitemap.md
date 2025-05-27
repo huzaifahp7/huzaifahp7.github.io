@@ -11,9 +11,12 @@ A list of all the posts and pages found on the site. For you robots out there, t
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-  {% include archive-single.html %}
+  {% unless post.title == "Sitemap" or post.title == "Markdown" or post.title == "Terms" or post.title == "404" or post.title == "Talkmap" or post.title == "Talks" or post.title == "Teaching" or post.title == "Tag Archive" or post.title == "Year Archive" or post.title == "Collection Archive" or post.title == "Page Archive" or post.title == "Category Archive" or post.title == "Archive Layout" or post.title == "CV JSON" %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
 
+<!-- Commented out unused sections
 <h2>Posts</h2>
 {% for post in site.posts %}
   {% include archive-single.html %}
@@ -35,3 +38,4 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% endunless %}
 {% endfor %}
 {% endfor %}
+-->
