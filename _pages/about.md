@@ -29,9 +29,7 @@ I am a Computer Science and Mathematics student at Georgia Tech, with a deep pas
 
 Hi, Hallo, नमस्ते, નમસ્તે, سلام!
 
-My passion for languages has led me to discover the mesmerizing world of classical poetry and music. Growing up, I looked up to the masters like Kabir, Rumi, Mirza Ghalib, Hafez, Meera Bai, Amir Khusrau, Rudaki, Rahim, and Ferdowsi - poets and scholars whose works transcend time and culture. My musical tastes are equally diverse, spanning genres and eras. I'm deeply moved by the spiritual depths of Qawwali music, from legends like Abida Parveen to Nusrat Fateh Ali Khan and the Sabri Brothers. Hip-hop captivates me through the mastery of artists from Rakim to Andre 3000 to A$AP Rocky. I enjoy exploring house music and pop, appreciate the timeless charm of Frank Sinatra, and cherish Bollywood music across generations - from Kishore Kumar to Udit Narayan to Arijit Singh. These literary and musical traditions, with their intricate metaphors and profound wisdom, often influence my approach to problem-solving and creative thinking in my technical work.
-
-Beyond poetry and music, I am an avid tea and fragrance connoisseur, with a carefully curated collection of over 50 unique tea varieties and more than 60 different fragrances.
+My passion for languages has led me to discover the mesmerizing world of classical poetry and music. Growing up, I looked up to the masters like Kabir, Rumi, Mirza Ghalib, Hafez, Meera Bai, Amir Khusrau, Rudaki, Rahim, and Ferdowsi - poets and scholars whose works transcend time and culture. These literary traditions, with their intricate metaphors and profound wisdom, often influence my approach to problem-solving and creative thinking in my technical work. Beyond poetry and music, I am an avid tea and fragrance connoisseur, with a carefully curated collection of over 50 unique tea varieties and more than 60 different fragrances.
 
 # Contact
 
