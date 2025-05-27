@@ -11,11 +11,21 @@ redirect_from:
 
 Education
 ======
-- B.S. in Computer Science, minor in Mathematics, May 2026 (expected)
+**B.S. in Computer Science, minor in Mathematics** | Georgia Institute of Technology | May 2026 (expected)
 
-* Cumulative GPA: 4.0/4.0 (Dean's List Award and Faculty Honors)
-* Relevant Coursework: Advanced Algorithms, System Design, Computer Networks, Machine Learning, Deep Learning, Advanced Linear Algebra, Probability and Statistics, Mathematical Modeling, Combinatorics, Stochastic Processes
-* Research Interests: Algorithmic Trading, Optimization Problems, Global Market Structures, Natural Language Processing
+**Academic Performance**
+- Cumulative GPA: 4.0/4.0
+- Honors: Dean's List Award, Faculty Honors all semesters
+
+**Relevant Coursework**
+- Computer Science: Advanced Algorithms, System Design, Computer Networks, Machine Learning, Deep Learning, Computational Foundations of ML, Complexity Theory
+- Mathematics: Advanced Linear Algebra, Advanced Probability and Statistics, Mathematical Modeling, Combinatorics, Stochastic Processes, Discrete Math
+
+**Research Interests**
+- Algorithmic Trading
+- Optimization Problems 
+- Global Market Structures
+- Natural Language Processing
 
 Work Experience
 ======
