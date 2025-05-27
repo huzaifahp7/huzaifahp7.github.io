@@ -18,6 +18,11 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% endif %}
 {% endfor %}
 
+<h2>Blog Posts</h2>
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <!-- {% comment %}
 # Unused sections below
 <h2>Posts</h2>
