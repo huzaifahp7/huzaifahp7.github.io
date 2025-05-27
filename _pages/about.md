@@ -10,9 +10,7 @@ I am a Computer Science and Mathematics student at Georgia Tech, with a deep pas
 
 # About Me
 
-I am currently pursuing my studies at Georgia Tech, focusing on the intersection of Computer Science and Mathematics. My interests lie in basically anything applying mathematical and computational methods to solve complex problems.
-
-When I'm not immersed in code or mathematical proofs, you'll find me exploring the rich tapestry of languages and poetry. I'm fluent in five languages (English, Hindi, Urdu, Gujarati, and Marathi), with a limited working knowledge of German. I can also understand basic Arabic and Farsi, though I'm still working on speaking them. This multilingual journey has opened doors to some of the world's most profound literary traditions.
+I am currently pursuing my studies at Georgia Tech, focusing on the intersection of Computer Science and Mathematics. My interests lie in basically anything applying mathematical and computational methods to solve complex problems. When I'm not immersed in code or mathematical proofs, you'll find me exploring the rich tapestry of languages and poetry. I'm fluent in five languages (English, Hindi, Urdu, Gujarati, and Marathi), with a limited working knowledge of German. I can also understand basic Arabic and Farsi, though I'm still working on speaking them. This multilingual journey has opened doors to some of the world's most profound literary traditions.
 
 # Education
 
