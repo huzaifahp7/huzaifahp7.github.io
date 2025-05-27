@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hi, Hallo, नमस्ते, નમસ્તે, سلام!
-
 I am a Computer Science and Mathematics student at Georgia Tech, with a deep passion for Quantitative Finance and its intersection with technology. Born and brought up in Mumbai, India, I've had the opportunity to experience diverse cultures through my time in Dubai during two summers and now in Atlanta. My research interests span Machine Learning, Natural Language Processing, Data Science, and Algorithm Design. Like a beautiful ghazal that weaves together multiple layers of meaning, I aim to blend technical expertise with cultural understanding. As a polyglot fluent in multiple languages, I find profound beauty in the convergence of technology and cultural expression.
 
 # About Me
@@ -31,6 +28,8 @@ When I'm not immersed in code or mathematical proofs, you'll find me exploring t
 - Random Structures
 
 # Cultural & Literary Interests
+
+Hi, Hallo, नमस्ते, નમસ્તે, سلام!
 
 My passion for languages has led me to discover the mesmerizing world of classical poetry and music. I find particular inspiration in the works of:
 
