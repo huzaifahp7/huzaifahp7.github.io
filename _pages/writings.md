@@ -1,6 +1,6 @@
 ---
 permalink: /writings/
-title: "Soul & Scriptures"
+title: "Reflections & Writings"
 author_profile: true
 ---
 
