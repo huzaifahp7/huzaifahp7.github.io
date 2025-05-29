@@ -4,7 +4,7 @@ excerpt: "A novel dataset for evaluating subjectivity and soft misinformation in
 date: 2024-09-26
 venue: "NeurIPS 2024"
 paperurl: "https://arxiv.org/pdf/2410.20651"
-citation: "Pardawala, H., et al. (2024). SubjECTive-QA: A Dataset for Evaluating Subjectivity and Soft Misinformation in Earnings Calls. In Advances in Neural Information Processing Systems."
+citation: "Pardawala, H., Sukhani, S., Shah, A., et al. (2024). SubjECTive-QA: A Dataset for Evaluating Subjectivity and Soft Misinformation in Earnings Calls. In Advances in Neural Information Processing Systems."
 category: "conferences"
 ---
 
