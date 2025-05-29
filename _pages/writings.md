@@ -4,7 +4,7 @@ title: "Soul & Scriptures"
 author_profile: true
 ---
 
-# Reflections & Rhymes
+# For the soul
 
 Welcome to my collection of writings - a tapestry of poetry, reflections, and timeless quotes that have moved me. Here I share my thoughts, creative expressions, and the wisdom that resonates with my soul.
 
