@@ -20,6 +20,6 @@ _Coming soon..._
 
 _Coming soon..._
 
-## About These Words
+## About These Writings
 
-I find inspiration in the rich traditions of Urdu, Persian, and Indian poetry, while also exploring contemporary themes and forms. My work often reflects my connection with life, people around me, unusual experiences, death and the divine.
+I find inspiration in the rich traditions of Urdu, Persian, and Indian poetry, while also exploring contemporary themes and forms. My work often reflects my connection with life, death and the divine.
