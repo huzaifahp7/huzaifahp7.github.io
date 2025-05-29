@@ -9,20 +9,21 @@ redirect_from:
 Student, researcher, wordsmith, and philosopher of sorts - exploring the intersections of quantitative finance, machine learning, algorithms and the occasional existential musing.
 
 # About Me
-
-I am a Computer Science and Mathematics student at Georgia Tech, with a deep passion for Quantitative Finance and its intersection with technology. Born and brought up in Mumbai, India, I've had the opportunity to experience diverse cultures through my time in Dubai during two summers and now in Atlanta. My research interests span Machine Learning, Natural Language Processing, Data Science, and Algorithm Design. Like a beautiful ghazal that weaves together multiple layers of meaning, I aim to blend technical expertise with cultural understanding. When I'm not immersed in code or mathematical proofs, you'll find me exploring the rich tapestry of languages and poetry. I'm fluent in five languages (English, Hindi, Urdu, Gujarati, and Marathi), with a limited working knowledge of German. I can also understand basic Arabic and Farsi, though I'm still working on speaking them. This multilingual journey has opened doors to some of the world's most profound literary traditions. My interests lie in basically anything applying mathematical and computational methods to solve complex problems.
+I am a Computer Science and Mathematics student at Georgia Tech, passionate about using machine learning and mathematical methods to solve complex problems. Born and brought up in Mumbai, India, I've had the opportunity to experience diverse cultures through my time in Dubai during two summers and now in Atlanta. My research interests span algorithmic trading, natural language processing, and statistical modeling. Like a beautiful ghazal that weaves together multiple layers of meaning, I aim to blend technical expertise with cultural understanding. When I'm not immersed in code or mathematical proofs, you'll find me exploring the rich tapestry of languages and poetry. I'm fluent in five languages (English, Hindi, Urdu, Gujarati, and Marathi), with a limited working knowledge of German. I can also understand basic Arabic and Farsi, though I'm still working on speaking them. This multilingual journey has opened doors to some of the world's most profound literary traditions. My interests lie in developing innovative solutions at the intersection of mathematics, computer science, and finance.
 
 # Education
 
 - B.S. in Computer Science and Mathematics, Georgia Tech (Expected 2026)
-- Focus on Machine Learning and Quantitative Research
+- Focus on Quantitative Finance and Statistical Methods
 
 # Research Interests
 
-- Machine Learning
-- Quantitative Research
-- Data Science
-- Artificial Intelligence
+- Statistical Machine Learning
+- Statistical Learning Theory
+- Natural Language Processing
+- Quantitative Finance Research
+- Deep Learning
+- Graph Theory
 - Random Structures
 
 # Cultural & Literary Interests
