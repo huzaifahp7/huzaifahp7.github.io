@@ -6,7 +6,7 @@ author_profile: true
 
 # For the soul
 
-Welcome to my collection of writings - a tapestry of poetry, reflections, and timeless quotes that have moved me. Here I share my thoughts, creative expressions, and the wisdom that resonates with my soul.
+Welcome to my collection of writings - a tapestry of poetry, reflections, and timeless quotes that have moved me. Here I share my thoughts, creative expressions, and the wisdom that resonates with my soul. A small life, a lot to share. Hopefully.
 
 ## Featured Writings
 
