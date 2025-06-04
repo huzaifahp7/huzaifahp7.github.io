@@ -39,5 +39,3 @@ A web application that provides a personalized Spotify Wrapped experience with e
 - Spotify API
 - Web Development
 - Recommendation Systems
-
-[View on GitHub](https://github.com/Bajo-Adi/spotifyproj2)
