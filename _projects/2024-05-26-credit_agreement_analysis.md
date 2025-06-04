@@ -14,7 +14,7 @@ This project is currently in development. It aims to leverage AI agents to analy
 
 **Technologies & Approaches:**
 
-- Agentic Workflows
+- Reward-based Agents
 - Risk Assessment
 - ETL Pipelines
 - Full stack web development
