@@ -7,8 +7,7 @@ tags:
   - life
 ---
 
-It was a sunny day in Atlanta.   
-When I was younger I always wondered why I could never look at the sun for prolonged periods without my eyes hurting.  
+A sunny day in Atlanta took me back to when I was younger, to a time when I often wondered why I couldn't gaze at the sun.
  
 That night, I came up with this:
 
