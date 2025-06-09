@@ -18,11 +18,11 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Writings"
-    url: /writings/
-
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Writings"
+    url: /writings/
 
   # Commented out sections
   # - title: "Teaching"
