@@ -153,6 +153,7 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - _writings
   - files
 exclude:
   - "*.sublime-project"
@@ -219,6 +220,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  writings:
+    output: true
+    permalink: /writings/:title/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -233,7 +237,7 @@ defaults:
       comments: true
       share: true
       related: true
-  
+
   # _writings
   - scope:
       path: ""
