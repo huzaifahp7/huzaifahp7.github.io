@@ -222,7 +222,7 @@ collections:
     permalink: /:collection/:path/
   writings:
     output: true
-    permalink: /writings/:title/
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
