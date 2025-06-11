@@ -7,7 +7,7 @@ tags:
   - life
 ---
 
-# Some truths shine brighter when we stop chasing the surface and seek the source.
+### Some truths shine brighter when we stop chasing the surface and seek the source.
 
 A sunny day in Atlanta took me back to when I was younger, to a time when I often wondered why I couldn't gaze at the sun.
 That night, I came up with this:

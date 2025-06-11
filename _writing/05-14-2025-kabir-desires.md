@@ -8,7 +8,7 @@ tags:
   - kabir
 ---
 
-# Two timeless verses from Kabir reminded me how little we truly understand, no matter how much we think we know.
+### Two timeless verses from Kabir reminded me how little we truly understand, no matter how much we think we know.
 
 One night, while reading alone, I found myself reflecting on how much I thought I had learned about the world. 20 years. 
 It was one of those moments where knowledge feels abundant, where power and understanding seem within reach, almost unsurpassable.

@@ -7,7 +7,7 @@ tags:
   - friends
 ---
 
-# A reminder for a friend in a season of transitions.
+### A reminder for a friend in a season of transitions.
 
 Towards the end of the Spring semester, a lot of my friends were worried for various reasons such as job applications, graduation, finals, etc.
 However, a friend of mine was stressed about life without any particular reason.
