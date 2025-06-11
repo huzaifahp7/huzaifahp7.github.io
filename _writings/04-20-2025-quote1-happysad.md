@@ -4,7 +4,7 @@ date: 2025-04-20
 permalink: /posts/2025/06/08/note-to-a-friend
 tags:
   - life
-  - friend
+  - friends
 ---
 
 This was during the Spring 2025 semester when a lot of my friends were worried for various reasons: graduation, job applications, finals, etc.
