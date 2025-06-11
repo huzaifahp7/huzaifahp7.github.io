@@ -153,7 +153,7 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - _writings
+  - _writing
   - files
 exclude:
   - "*.sublime-project"
@@ -220,7 +220,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  writings:
+  writing:
     output: true
     permalink: /:collection/:path/
 
@@ -241,7 +241,7 @@ defaults:
   # _writings
   - scope:
       path: ""
-      type: writings
+      type: writing
     values:
       layout: single
       author_profile: true
