@@ -1,7 +1,7 @@
 ---
 title: 'Of Light and the Road Ahead'
 date: 2025-06-10
-permalink: /posts/2025/06/10/noor
+permalink: /posts/2025/06/10/of-light-and-the-road-ahead
 tags:
   - life
 ---
