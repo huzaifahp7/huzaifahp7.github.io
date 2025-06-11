@@ -6,6 +6,8 @@ tags:
   - life
 ---
 
+# Sometimes, the moment slips away, and all that remains are the words we wish we had spoken.
+
 A couple of years back, I found it difficult to start a conversation with people.  
 Looking back now, at an opportunity I had during my later teenage years, I wrote:
 

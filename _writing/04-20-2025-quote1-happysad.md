@@ -7,9 +7,10 @@ tags:
   - friends
 ---
 
-This was during the Spring 2025 semester when a lot of my friends were worried for various reasons: graduation, job applications, finals, etc.
-However, a friend of mine was stressed about life without any particular reason.  
-It was a period of transition and spring itself is a season of transition.
+# A reminder for a friend in a season of transitions.
+
+Towards the end of the Spring semester, a lot of my friends were worried for various reasons such as job applications, graduation, finals, etc.
+However, a friend of mine was stressed about life without any particular reason.
 
 Thinking about his situation, I wrote to him in the morning:
 
