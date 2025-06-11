@@ -1,7 +1,7 @@
 ---
 title: 'A Sunny Day in Atlanta'
 date: 2025-04-22
-permalink: /posts/2025/06/08/sunny-day-in-atlanta
+permalink: /posts/2025/04/22/sunny-day-in-atlanta
 tags:
   - divine
   - life

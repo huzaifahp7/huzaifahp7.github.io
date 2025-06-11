@@ -1,7 +1,7 @@
 ---
 title: 'A Glimpse of Kabir’s Wisdom'
 date: 2025-05-14
-permalink: /posts/2025/06/10/kabir-das-desires
+permalink: /posts/2025/05/14/kabir-das-desires
 tags:
   - life
   - divine
