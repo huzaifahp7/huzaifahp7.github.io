@@ -21,8 +21,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Writings"
-    url: /writings/
+  - title: "Writing"
+    url: /writing/
 
   # Commented out sections
   # - title: "Teaching"
