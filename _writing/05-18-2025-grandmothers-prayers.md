@@ -13,7 +13,7 @@ It has been three and a half years since her passing, though I keep her in my pr
 
 In her memory, I wrote these lines:
 
-> O Naseem, carry my prayers to those graves whose faces time has blurred,
+> O Naseem, carry my prayers to the graves of those whose faces time has blurred,
 > whose voices echo in my yearning.  
 > For in my heart, they live still, as vivid as ever.
 
