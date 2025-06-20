@@ -7,7 +7,7 @@ tags:
   - time
 ---
 
-### Some songs of friendship outlive the wheel of time.
+### Songs of friendship often outlive the wheel of time.
 
 A part of my occasional existential musing is that in certain moments where my mind is relaxed, I remember that nothing is eternal - places, people, and even memories.
 But every now and then, a feeling returns. A trace of a bond. A warmth that refuses to disappear.  
