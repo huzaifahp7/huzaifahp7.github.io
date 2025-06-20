@@ -1,7 +1,7 @@
 ---
 title: 'Time, Devotion and the Beloved'
 date: 2025-06-18
-permalink: /posts/2025/06/18/waqt-mai-aur-mashooq
+permalink: /posts/2025/06/18/time-devotion-beloved
 tags:
   - time
   - sufi
