@@ -20,7 +20,7 @@ That’s when these lines came to me, trying to capture that very truth.
 ---
 
 **Che konam baa in hayula-ye be-rehem o be-qarar ast?**  
-*What should I do with this material world — unkind and restless at its core?*  
+*What should I do with this material world that is unkind and restless at its core?*  
 **Har taraf insaan ghamgin o pareshan ast.**  
 *Everywhere I turn, I see people weary and worried.*  
 
