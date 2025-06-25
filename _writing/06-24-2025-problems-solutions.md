@@ -12,7 +12,7 @@ tags:
 My trip from D.C. to New York marked the end of the first leg of my summer travel plans. Each place offered something significant — a new rhythm, a quiet reminder, a change in perspective, and the motivation to do more. 
 On Saturday night, a brief conversation with a stranger left a lasting impression.
 
-Back at my apartment, their words echoed. I kept thinking about how so many of us move through life burdened by our own worries, yet still carry within us a powerful instinct: to help.
+Back at my apartment, their words echoed. I kept thinking about how so many of us move through life burdened by our own worries, yet still carry within us a powerful instinct: to help others.
 That’s when these lines came to me, trying to capture that very truth.
 
 (Excuse the broken Farsi. Feel free to reach out with any grammatical suggestions.)
@@ -31,8 +31,8 @@ That’s when these lines came to me, trying to capture that very truth.
 
 **Aur jab kabhi gham ke toofaan chha jaen uski kashti mein,**  
 *And when storms of sorrow engulf their fragile boat,*  
-**Tab aayenge har ins-o-jinn-o-malak, baantne dukh iss basti mein.**  
-*Then humans, jinns, and angels from every realm of existence will gather in this dwelling, sharing every sorrow until it’s light.*
+**Tab aayenge har ins-o-jinn-o-malak, baantne dukh uski basti mein.**  
+*Then humans, jinns, and angels from every realm of existence will gather in their dwelling, sharing every sorrow until it’s light.*
 
 ---
 
