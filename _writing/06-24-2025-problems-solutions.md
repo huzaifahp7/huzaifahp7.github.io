@@ -12,14 +12,14 @@ tags:
 My trip from D.C. to New York marked the end of the first leg of my summer travel plans. Each place offered something significant — a new rhythm, a quiet reminder, a change in perspective, and the motivation to do more. 
 On Saturday night, a brief conversation with a stranger left a lasting impression.
 
-Back at my apartment, their words echoed. I kept thinking about how so many of us move through life burdened by our own worries, yet still carry within us a powerful instinct: to help. Even when exhausted, the heart reaches out.
+Back at my apartment, their words echoed. I kept thinking about how so many of us move through life burdened by our own worries, yet still carry within us a powerful instinct: to help.
 That’s when these lines came to me, trying to capture that very truth.
 
 (Excuse the broken Farsi. Feel free to reach out with any grammatical suggestions.)
 
 ---
 
-**Che konam baa in hayula-ye be-rehm o be-qarar ast?**  
+**Che konam baa in hayula-ye be-rehem o be-qarar ast?**  
 *What should I do with this material world — unkind and restless at its core?*  
 **Har taraf insaan ghamgin o pareshan ast.**  
 *Everywhere I turn, I see people weary and worried.*  
