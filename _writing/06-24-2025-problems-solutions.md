@@ -33,6 +33,7 @@ That’s when these lines came to me, trying to capture that very truth.
 *And when storms of sorrow engulf their fragile boat,*  
 **Tab aayenge har ins-o-jinn-o-malak, baantne dukh iss basti mein.**  
 *Then humans, jinns, and angels from every realm of existence will gather in this dwelling, sharing every sorrow until it’s light.*
+
 ---
 
 I guess this is what we’re meant for: life will always seed new problems, but how we rise to meet them, and help others do the same, is entirely up to us.
