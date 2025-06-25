@@ -18,10 +18,10 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Blog Posts"
+  - title: "Academic Writing"
     url: /year-archive/
 
-  - title: "Writing"
+  - title: "Literary Writing"
     url: /writing/
 
   # Commented out sections
