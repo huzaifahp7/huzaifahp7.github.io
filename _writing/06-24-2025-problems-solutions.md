@@ -36,4 +36,4 @@ That’s when these lines came to me, trying to capture that very truth.
 
 ---
 
-I guess this is the actual "test" of life: life will always seed new problems, but how we rise to meet them, and help others do the same, is entirely up to us.
+Life will always seed new problems, but how we rise to meet them, and help others do the same, is entirely up to us.
