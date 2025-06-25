@@ -22,7 +22,7 @@ That’s when these lines came to me, trying to capture that very truth.
 **Che konam baa in hayula-ye be-rehem o be-qarar ast?**  
 *What should I do with this material world that is unkind and restless at its core?*  
 **Har taraf insaan ghamgin o pareshan ast.**  
-*Everywhere I turn, I see people weary and worried.*  
+*In every direction, I see people weary and worried.*  
 
 **Magar phir bhi insaan ki fitrat mein hai sahara banna,**  
 *Still, it is in a human’s nature to be a shelter for other beings,*  
