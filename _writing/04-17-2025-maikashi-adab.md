@@ -1,0 +1,1 @@
+“Jinko adab-e-maikashi nahin aate, unhe maikade se rukhsat (remove) kar do. Kahi unki nawaabi mein sharaab badnaam na ho jaaye”
