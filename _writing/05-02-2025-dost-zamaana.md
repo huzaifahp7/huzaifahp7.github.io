@@ -3,7 +3,7 @@ title: 'Na Saaz Badla, Na Raag'
 date: 2025-05-02
 permalink: /posts/2025/05/02/na-saaz-na-raag
 tags:
-  - friendship
+  - friends
   - time
 ---
 

@@ -5,7 +5,6 @@ permalink: /posts/2025/05/14/kabir-das-desires
 tags:
   - life
   - divine
-  - kabir
 ---
 
 ### Two timeless verses from Kabir reminded me how little we truly understand, no matter how much we think we know.
