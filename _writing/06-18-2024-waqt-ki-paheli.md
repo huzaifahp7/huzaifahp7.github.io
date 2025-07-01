@@ -36,16 +36,16 @@ They build on each other, and I hope the reader enjoys them:
 
 > Waqt ko samajhne ke liye sirf ek mashooq ki zaroorat thi   
 
-> Jisko samajhna bhi zaroori na tha.
+> Jisko samajhna zaroori bhi na tha.
 
 ---
 
 This roughly translates to:
 
 Who knows the mystery of time?  
-We are all servants of the wheel of time, we are at its mercy.  
+We are servants of the wheel of time, we are at its mercy.  
 Hopefully, time does not pass by without devotion.  
-That’s why we must drink a couple of sips from this cup of wine.
+That’s why I suggest we drink a couple of sips from this cup of wine.
 
 Note: This does not refer to literal wine.  
 As is common in traditional Sufi literature, **"wine" here refers to the wine of divine love**. This alludes to intoxication not of the senses, but of the spirit.
@@ -55,4 +55,4 @@ As is common in traditional Sufi literature, **"wine" here refers to the wine of
 Maybe we were not all that bothered by losing time.  
 Maybe time itself wasn’t a mystery.  
 Maybe, to understand time, all we needed was a beloved.  
-**Ironically, understanding the beloved was also unnecessary.**
+**Ironically, understanding the beloved was unnecessary.**

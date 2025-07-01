@@ -4,7 +4,6 @@ date: 2025-06-24
 permalink: /posts/2025/06/24/problems-solutions
 tags:
   - life
-  - worries
 ---
 
 ### A burden endured by one can become a shelter for many.

@@ -21,8 +21,7 @@ And then I think to myself: friendship, in its purest form, hums on in silence, 
 
 > na saaz badla, na raag, na mehfil ki woh baat.
 
-This was written around the time of a close friend’s graduation.  
-My friends were getting a little emotional and I decided to write this for them.
+This was written around the time of a close friend’s graduation. This one's written for my friends.
 
 ---
 
