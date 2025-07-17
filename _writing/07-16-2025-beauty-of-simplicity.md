@@ -9,7 +9,7 @@ tags:
 ### Beauty becomes more concentrated when structure dissolves.
 
 
-Sometimes, I feel like a ghazal written in the simplest language says more than a book filled with dense jargon. That doesn’t mean I don’t enjoy reading both equally—only that the mind sometimes yearns for a simpler understanding of the world. A friend of mine, an avid reader, once said: "It’s beautiful how what an entire book tries to say was captured by this poet in a single couplet." That’s when I realized that sometimes, beauty lies in simplicity.I decided to take the metaphor a bit further in the last two lines, as per usual, because I love weaving a touch of mysticism and love into my couplets. Sometimes, a single glance can speak more than a book ever could.
+Sometimes, I feel like a ghazal written in the simplest language says more than a book filled with dense jargon. That doesn’t mean I don’t enjoy reading both equally, only that the mind sometimes yearns for a simpler understanding of the world. A friend of mine, an avid reader, once said: "It’s beautiful how what an entire book tries to say was captured by this poet in a single couplet." That’s when I realized that sometimes, beauty lies in simplicity.I decided to take the metaphor a bit further in the last two lines, as per usual, because I love weaving a touch of mysticism and love into my couplets. Sometimes, a single glance can speak more than a book ever could.
 
 
 > Ek baab, kitaab se zyada zulala,
