@@ -9,7 +9,7 @@ tags:
 
 ### From self-annihilation to divine union.
 
-While waiting for my ride to the airport, I watched a moth flutter toward a soft glow coming from a corner light. It was strange because the usual streetlamp, which happened to me much brighter, didn’t seem to catch its attention. Something  more diffused had its full attention.
+While waiting for my ride to the airport, I watched a moth flutter toward a soft glow coming from a light in a small pocket on the street. It was strange because the usual streetlamp, which happened to be much brighter, didn’t seem to catch its attention. Something  more diffused had its full attention.
 
 I often come across the metaphor *shama-parwana* (like a moth to a flame) in various texts, especially in Urdu literature. It symbolizes a reckless devotion and self-annihilation in the pursuit of truth. But what struck me was this:
 
